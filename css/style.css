@@ -1,0 +1,15 @@
+/* CSS générale */
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+.home-container img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
